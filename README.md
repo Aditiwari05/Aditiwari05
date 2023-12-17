@@ -3,6 +3,7 @@
 <h1 align="center"> I'm Aditi Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="Coding" width="430" src="https://tse3.mm.bing.net/th?id=OIP.W11xCSDcd5b0uhon7g1eOgHaFj&pid=Api&P=0&h=180">
+[![An image of @aditiwari05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aditiwari05)](https://holopin.io/@aditiwari05)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="aditiwari05" /> </p>
 
