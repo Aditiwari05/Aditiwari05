@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Aditi Tiwari</h1>
+<h1 align="center"> I'm Aditi Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="center" alt="Coding" width="430" src="https://tse3.mm.bing.net/th?id=OIP.W11xCSDcd5b0uhon7g1eOgHaFj&pid=Api&P=0&h=180">
 
